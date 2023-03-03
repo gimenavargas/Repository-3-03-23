@@ -1,0 +1,8 @@
+FORMULA PARA HALLAR EL AREA DE UN CIRCULO 
+  
+
+(A = π r²)
+
+El valor de π = 3.14
+
+"La radio sera añadida por el usuario"
